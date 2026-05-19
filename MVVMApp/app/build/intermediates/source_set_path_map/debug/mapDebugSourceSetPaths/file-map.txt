@@ -1,0 +1,52 @@
+com.example.mvvmapp-jetified-lifecycle-process-2.8.4-0 C:\Users\ammar\.gradle\caches\9.3.1\transforms\02292ba4a17654712aead23d1d68a7c2\workspace\transformed\jetified-lifecycle-process-2.8.4\res
+com.example.mvvmapp-navigation-runtime-2.7.7-1 C:\Users\ammar\.gradle\caches\9.3.1\transforms\067c19806ff144636aaf1b8f682f3931\workspace\transformed\navigation-runtime-2.7.7\res
+com.example.mvvmapp-jetified-foundation-release-2 C:\Users\ammar\.gradle\caches\9.3.1\transforms\069f294266207e56b16cce9f3820e899\workspace\transformed\jetified-foundation-release\res
+com.example.mvvmapp-navigation-runtime-ktx-2.7.7-3 C:\Users\ammar\.gradle\caches\9.3.1\transforms\15c2eb036f224ec8635f03179a454d7b\workspace\transformed\navigation-runtime-ktx-2.7.7\res
+com.example.mvvmapp-jetified-lifecycle-viewmodel-compose-release-4 C:\Users\ammar\.gradle\caches\9.3.1\transforms\1a182c805639c17aa78608068807339b\workspace\transformed\jetified-lifecycle-viewmodel-compose-release\res
+com.example.mvvmapp-jetified-ui-unit-release-5 C:\Users\ammar\.gradle\caches\9.3.1\transforms\1ae8fcfc07e321274615c5268c7fca14\workspace\transformed\jetified-ui-unit-release\res
+com.example.mvvmapp-jetified-activity-1.9.1-6 C:\Users\ammar\.gradle\caches\9.3.1\transforms\20a2e1653f10d34ba7ca098058314425\workspace\transformed\jetified-activity-1.9.1\res
+com.example.mvvmapp-jetified-navigation-compose-2.7.7-7 C:\Users\ammar\.gradle\caches\9.3.1\transforms\2203dd5acd5601c787f186ee5c9f5e2e\workspace\transformed\jetified-navigation-compose-2.7.7\res
+com.example.mvvmapp-jetified-material-ripple-release-8 C:\Users\ammar\.gradle\caches\9.3.1\transforms\41859c1627998fd5e20626d228ec9462\workspace\transformed\jetified-material-ripple-release\res
+com.example.mvvmapp-jetified-foundation-layout-release-9 C:\Users\ammar\.gradle\caches\9.3.1\transforms\487e6a3b9dd6631f07d7c07044d88d7f\workspace\transformed\jetified-foundation-layout-release\res
+com.example.mvvmapp-jetified-animation-release-10 C:\Users\ammar\.gradle\caches\9.3.1\transforms\534eadba25c807f7f8d976a385874328\workspace\transformed\jetified-animation-release\res
+com.example.mvvmapp-jetified-core-ktx-1.13.1-11 C:\Users\ammar\.gradle\caches\9.3.1\transforms\54970df6f74e64f3b6ad4fccd1aa1389\workspace\transformed\jetified-core-ktx-1.13.1\res
+com.example.mvvmapp-core-runtime-2.2.0-12 C:\Users\ammar\.gradle\caches\9.3.1\transforms\5511acac7f82daa1e132ebe15ba22a74\workspace\transformed\core-runtime-2.2.0\res
+com.example.mvvmapp-jetified-ui-release-13 C:\Users\ammar\.gradle\caches\9.3.1\transforms\666bc8d9f37480548fbe68524a49f9a8\workspace\transformed\jetified-ui-release\res
+com.example.mvvmapp-room-runtime-2.6.1-14 C:\Users\ammar\.gradle\caches\9.3.1\transforms\66a11eae7ff1601b5ae515239eaccad9\workspace\transformed\room-runtime-2.6.1\res
+com.example.mvvmapp-jetified-animation-core-release-15 C:\Users\ammar\.gradle\caches\9.3.1\transforms\66a2cd85e1f360bdf42ce87599c1da22\workspace\transformed\jetified-animation-core-release\res
+com.example.mvvmapp-jetified-runtime-release-16 C:\Users\ammar\.gradle\caches\9.3.1\transforms\714230963235d2669263f37476ac9fc3\workspace\transformed\jetified-runtime-release\res
+com.example.mvvmapp-jetified-material3-release-17 C:\Users\ammar\.gradle\caches\9.3.1\transforms\786ce88c0667eb4863d1721daedc13ac\workspace\transformed\jetified-material3-release\res
+com.example.mvvmapp-jetified-activity-compose-1.9.1-18 C:\Users\ammar\.gradle\caches\9.3.1\transforms\78aa350127c3bd63c1c9732a16770e31\workspace\transformed\jetified-activity-compose-1.9.1\res
+com.example.mvvmapp-lifecycle-livedata-core-2.8.4-19 C:\Users\ammar\.gradle\caches\9.3.1\transforms\838b4c3cc7cdc8eb8a97fba9b6f58806\workspace\transformed\lifecycle-livedata-core-2.8.4\res
+com.example.mvvmapp-jetified-lifecycle-runtime-ktx-release-20 C:\Users\ammar\.gradle\caches\9.3.1\transforms\8792ed016390e95a2475c16f122aaea2\workspace\transformed\jetified-lifecycle-runtime-ktx-release\res
+com.example.mvvmapp-jetified-lifecycle-viewmodel-ktx-2.8.4-21 C:\Users\ammar\.gradle\caches\9.3.1\transforms\8fc30fd0f28761e4f22be6617a402dd8\workspace\transformed\jetified-lifecycle-viewmodel-ktx-2.8.4\res
+com.example.mvvmapp-jetified-room-ktx-2.6.1-22 C:\Users\ammar\.gradle\caches\9.3.1\transforms\92d916b8fbe6c77bb214b5febbca0fc6\workspace\transformed\jetified-room-ktx-2.6.1\res
+com.example.mvvmapp-jetified-startup-runtime-1.1.1-23 C:\Users\ammar\.gradle\caches\9.3.1\transforms\94be2505be2ab8344b46b4be574205f5\workspace\transformed\jetified-startup-runtime-1.1.1\res
+com.example.mvvmapp-jetified-runtime-saveable-release-24 C:\Users\ammar\.gradle\caches\9.3.1\transforms\9895719dc1ac070e6fb1747fa02535b0\workspace\transformed\jetified-runtime-saveable-release\res
+com.example.mvvmapp-jetified-lifecycle-viewmodel-savedstate-2.8.4-25 C:\Users\ammar\.gradle\caches\9.3.1\transforms\9b8c59a26049082d65cae59f6c7f1f78\workspace\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.4\res
+com.example.mvvmapp-jetified-customview-poolingcontainer-1.0.0-26 C:\Users\ammar\.gradle\caches\9.3.1\transforms\a0abe55e9478879bb6436ff8fa959172\workspace\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.example.mvvmapp-sqlite-2.4.0-27 C:\Users\ammar\.gradle\caches\9.3.1\transforms\a99251adb78a10416d0c5002f47e01eb\workspace\transformed\sqlite-2.4.0\res
+com.example.mvvmapp-jetified-ui-graphics-release-28 C:\Users\ammar\.gradle\caches\9.3.1\transforms\ad4ccd5d91931bfe899ed5a043b1c81c\workspace\transformed\jetified-ui-graphics-release\res
+com.example.mvvmapp-jetified-lifecycle-viewmodel-release-29 C:\Users\ammar\.gradle\caches\9.3.1\transforms\b4c4c961bd544f996408d0df68027cfe\workspace\transformed\jetified-lifecycle-viewmodel-release\res
+com.example.mvvmapp-jetified-annotation-experimental-1.4.0-30 C:\Users\ammar\.gradle\caches\9.3.1\transforms\b8d9a4e939c6ff63fbf0b77adcbdd2be\workspace\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.mvvmapp-jetified-ui-geometry-release-31 C:\Users\ammar\.gradle\caches\9.3.1\transforms\b9ec97d31ee6066135784fe6714b8de5\workspace\transformed\jetified-ui-geometry-release\res
+com.example.mvvmapp-jetified-ui-text-release-32 C:\Users\ammar\.gradle\caches\9.3.1\transforms\c196f1ebbb68841e45473212de9fceba\workspace\transformed\jetified-ui-text-release\res
+com.example.mvvmapp-navigation-common-ktx-2.7.7-33 C:\Users\ammar\.gradle\caches\9.3.1\transforms\c1b0ea9e1cc0d08a16e3f0766096b508\workspace\transformed\navigation-common-ktx-2.7.7\res
+com.example.mvvmapp-sqlite-framework-2.4.0-34 C:\Users\ammar\.gradle\caches\9.3.1\transforms\c4bdb592d86be389b1ededf841c276eb\workspace\transformed\sqlite-framework-2.4.0\res
+com.example.mvvmapp-navigation-common-2.7.7-35 C:\Users\ammar\.gradle\caches\9.3.1\transforms\ce63de72a58ee7798f79d6ffe12043b1\workspace\transformed\navigation-common-2.7.7\res
+com.example.mvvmapp-jetified-ui-util-release-36 C:\Users\ammar\.gradle\caches\9.3.1\transforms\dbc7a05d5bc924f51f2872acabcbbc7f\workspace\transformed\jetified-ui-util-release\res
+com.example.mvvmapp-jetified-material-icons-core-release-37 C:\Users\ammar\.gradle\caches\9.3.1\transforms\e5ad989bfbf10b1aa73a083e1c33bcc5\workspace\transformed\jetified-material-icons-core-release\res
+com.example.mvvmapp-core-1.13.1-38 C:\Users\ammar\.gradle\caches\9.3.1\transforms\e826aa61450c2612224d8ef3e68ef6a8\workspace\transformed\core-1.13.1\res
+com.example.mvvmapp-jetified-lifecycle-runtime-release-39 C:\Users\ammar\.gradle\caches\9.3.1\transforms\e90e4346e3a43d6e89e0a88a2c92b32f\workspace\transformed\jetified-lifecycle-runtime-release\res
+com.example.mvvmapp-jetified-profileinstaller-1.3.1-40 C:\Users\ammar\.gradle\caches\9.3.1\transforms\ea34de3c633ab417f2af21f868129acf\workspace\transformed\jetified-profileinstaller-1.3.1\res
+com.example.mvvmapp-jetified-emoji2-1.3.0-41 C:\Users\ammar\.gradle\caches\9.3.1\transforms\ed57c8639cf26e12003c6e4b952b5fed\workspace\transformed\jetified-emoji2-1.3.0\res
+com.example.mvvmapp-jetified-savedstate-1.2.1-42 C:\Users\ammar\.gradle\caches\9.3.1\transforms\ee7de02ef90c7cc5712197137d3f611f\workspace\transformed\jetified-savedstate-1.2.1\res
+com.example.mvvmapp-jetified-savedstate-ktx-1.2.1-43 C:\Users\ammar\.gradle\caches\9.3.1\transforms\f6f9675f8abd8c55c42001248eb432ee\workspace\transformed\jetified-savedstate-ktx-1.2.1\res
+com.example.mvvmapp-jetified-activity-ktx-1.9.1-44 C:\Users\ammar\.gradle\caches\9.3.1\transforms\f81af1d5959280a6c657ea40a964adbb\workspace\transformed\jetified-activity-ktx-1.9.1\res
+com.example.mvvmapp-pngs-45 D:\Kakak\Teknik Informatika\Semester 6\Pemrograman Perangkat Bergerak\MVVMApp\app\build\generated\res\pngs\debug
+com.example.mvvmapp-resValues-46 D:\Kakak\Teknik Informatika\Semester 6\Pemrograman Perangkat Bergerak\MVVMApp\app\build\generated\res\resValues\debug
+com.example.mvvmapp-packageDebugResources-47 D:\Kakak\Teknik Informatika\Semester 6\Pemrograman Perangkat Bergerak\MVVMApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.mvvmapp-packageDebugResources-48 D:\Kakak\Teknik Informatika\Semester 6\Pemrograman Perangkat Bergerak\MVVMApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.mvvmapp-debug-49 D:\Kakak\Teknik Informatika\Semester 6\Pemrograman Perangkat Bergerak\MVVMApp\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.mvvmapp-debug-50 D:\Kakak\Teknik Informatika\Semester 6\Pemrograman Perangkat Bergerak\MVVMApp\app\src\debug\res
+com.example.mvvmapp-main-51 D:\Kakak\Teknik Informatika\Semester 6\Pemrograman Perangkat Bergerak\MVVMApp\app\src\main\res
